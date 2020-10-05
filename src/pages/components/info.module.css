@@ -1,0 +1,19 @@
+.infoIMG {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    user-select: none;
+    -webkit-user-drag: none;
+    padding: 2vh;
+}
+
+.infoBox {
+    margin-top: 2vh;
+    margin-left: 2vw;
+}
+
+.infoItem {
+    margin-top: 0.5vh;
+    font-size: large;
+}

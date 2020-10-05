@@ -1,0 +1,17 @@
+.homepage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-image: url('../img/homepage_background.jpg');
+}
+
+:global(#root) {
+    margin: 0;
+    height: 100%;
+}
+
+:global(body) {
+    margin: 0;
+    height: 100vh;
+}
